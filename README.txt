@@ -6,7 +6,8 @@ I included the finished program and also the source if you'd like to modify the 
 Use PC_TO_EEPROM as follows:
 first put the .ino on your arduino, it's based on ben's EEPROM programmer modified to take serial input.
 
-then put the file that you want to be written to the EEPROM in the same folder as the .exe
+then put the file (I recommend a .bin but it'll read any file and turn it into hexadecimal bytes) 
+that you want to be written to the EEPROM in the same folder as the .exe
 
 then:
 Option one: 
