@@ -103,7 +103,7 @@ void setup() {
 
   Serial.begin(19200);
   //Serial.println("Serial OK");
-  printContents(0,255);
+  //printContents(0,255);
 }
 
 int i =0;
